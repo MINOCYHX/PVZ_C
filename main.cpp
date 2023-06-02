@@ -1,6 +1,5 @@
 /*
-Bar  
-Cards
+
 */
 
 #include <stdio.h>
